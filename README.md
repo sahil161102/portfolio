@@ -24,7 +24,7 @@
 - Conducted a comprehensive comparative study with various machine learning algorithms.
 
 ### Pneumothorax disease detection
-[Project]([https://www.mdpi.com/1424-8220/22/11/4240](https://colab.research.google.com/drive/1tkm9hI4LMtBMaxe46sX3Z0K6fbzeam75)
+[Project](https://colab.research.google.com/drive/1tkm9hI4LMtBMaxe46sX3Z0K6fbzeam75)
 
 Employing a custom CNN model from the ground up to classify lung X-ray imagery, distinguishing between the
 presence and absence of pneumothorax disease.
