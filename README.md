@@ -16,7 +16,7 @@
 
 ## Projects
 ### Covid-19 Fake news Detection
-[Project]([https://www.mdpi.com/1424-8220/22/8/3048](https://github.com/sahil161102/Covid-19-FakeNews-Classification/blob/main/CT_BERT.ipynb))
+[Project]((https://github.com/sahil161102/Covid-19-FakeNews-Classification/blob/main/CT_BERT.ipynb))
 
 **PyTorch, BERT, ROBERTA, ML Algorithms**
 - Implemented transformer-based strategies with **BERT and RoBERTa**.
