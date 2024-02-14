@@ -16,7 +16,7 @@
 
 ## Projects
 ### Covid-19 Fake news Detection
-[Publication](https://www.mdpi.com/1424-8220/22/8/3048)
+[Project](https://www.mdpi.com/1424-8220/22/8/3048)
 
 **PyTorch, BERT, ROBERTA, ML Algorithms**
 - Implemented transformer-based strategies with **BERT and RoBERTa**.
@@ -24,7 +24,7 @@
 - Conducted a comprehensive comparative study with various machine learning algorithms.
 
 ### Pneumothorax disease detection
-[Publication](https://www.mdpi.com/1424-8220/22/11/4240)
+[Project](https://www.mdpi.com/1424-8220/22/11/4240)
 
 Employing a custom CNN model from the ground up to classify lung X-ray imagery, distinguishing between the
 presence and absence of pneumothorax disease.
