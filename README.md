@@ -6,7 +6,7 @@
 - B.Tech., Computer Science and Engineering | Indian Institute of Information Technology, Una (_May 2024_)								       		
 
 ## Work Experience
-**Project Intern @ TIF-AWaDH, IIT Ropar (_December 2023 - Present_)**
+**Project Intern @ TIF-AWaDH, IIT Ropar (_December 2022 - Present_)**
 - Developed YOLO based models for real-time detection of different bee species.
 - Integrate MLflow for tracking of model experimentations.
 - Deployed SageMaker endpoints on AWS to facilitate seamless model hosting.
